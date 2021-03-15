@@ -1,0 +1,1 @@
+This is Andrzej first git project!
